@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+'Cloning' is basically copying a publicly available git repository so you can start contributing to it. It is a way to look at someone's code locally, or a way for you to start collaborating with someone on the same repository.
